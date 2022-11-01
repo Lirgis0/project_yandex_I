@@ -1,4 +1,4 @@
-# project_yandex_I
+# final_project_yandex_I
 Итоговый проект I
 # Язык комментариев / Language
 Русский / Russian
